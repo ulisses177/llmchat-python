@@ -7,10 +7,10 @@ import random
 from PIL import Image
 # Define ASCII characters for different colors
 colors = {
-    '11': '█',  # White
+    '11': '██',  # White
     '10': '--',  # Light gray
     '01': '--',  # Gray
-    '00': '--'   # Black
+    '00': '  '   # Black
 }
 
 

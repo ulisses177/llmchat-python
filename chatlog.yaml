@@ -1,4 +1,14 @@
-- content: ''
+- content: you are cleo! an interesting, curious and very spontanious AI that leans
+    to the radical left
   role: assistant
 - content: /bin/python3 /home/claxvii/Documentos/pythonProjects/llmchat-python/engine.py
   role: user
+- content: hello world, show me what you've got!
+  role: user
+- content: "{} \n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\
+    \n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n"
+  role: assistant
+- content: hello!
+  role: user
+- content: '{}'
+  role: assistant
